@@ -18,34 +18,39 @@
             <div>
                 <section>
                     <h4>EXPERIENCE</h4>
-                    <p><b>Nu Skin</b> ​— Provo, UT — ​<em>Sales Support Representative</em>
+                    <p>
+                        <b>Nu Skin</b> ​— Provo, UT — ​<em>Sales Support Representative</em>
                         <br>
                         January 2017 - December 2017
                         <br>
-                        Develop professional relationship with the customers. Answer questions, resolve any 
-                        issues, and place orders.
+                        Develop professional relationship with the customers. 
+                        Answer questions, resolve any issues, and place orders.
                     </p>
-                    <p><b>sneakerslaundry.com</b> ​— Chesterfield, VA — ​<em>Developer</em>
+                    <p>
+                        <b>sneakerslaundry.com</b> ​— Chesterfield, VA — ​<em>Developer</em>
                         <br>
                         December 2015 - January 2016
                         <br>
-                        Design and develop website using WordPress to increase the efficiency and provide 
-                        better service.
+                        Design and develop website using WordPress to increase the efficiency
+                        and provide better service.
                     </p>
-                    <p><b>Cupbop</b> ​— Rexburg, ID — ​<em>Manager</em>
+                    <p>
+                        <b>Cupbop</b> ​— Rexburg, ID — ​<em>Manager</em>
                         <br>
                         May 2014 -December 2014
                         <br>
-                        Provide friendly service experience to the customers. Train and manage overall 
-                        conduct of the employees.
+                        Provide friendly service experience to the customers. 
+                        Train and manage overall conduct of the employees.
                     </p>
-                    <p><b>Deseret Digital Media</b> ​— Rexburg, ID — ​<em>Quality Assurance</em>
+                    <p>
+                        <b>Deseret Digital Media</b> ​— Rexburg, ID — ​<em>Quality Assurance</em>
                         <br>
                         September 2013 - July 2014
                         <br>
                         Find and report bugs on apps and websites to provide more user-friendly service.
                     </p>
-                    <p><b>Future Leaders in Program Management</b> ​— Richmond, VA — ​<em>Lead Developer</em>
+                    <p>
+                        <b>Future Leaders in Program Management</b> ​— Richmond, VA — ​<em>Lead Developer</em>
                         <br>
                         February 2012 - April 2012
                         <br>
@@ -54,17 +59,20 @@
                 </section>
                 <section>
                     <h4>EDUCATION</h4>
-                    <p><b>Utah Valley University</b> ​— Orem, UT
+                    <p>
+                        <b>Utah Valley University</b> ​— Orem, UT
                         <br>
                         2018 - 2020
                         <br>
                         Bachelor of Science in Computer Science
                     </p>
-                    <p><b>Brigham Young University - ID</b> ​— Rexburg, ID
+                    <p>
+                        <b>Brigham Young University - ID</b> ​— Rexburg, ID
                         <br>
                         2014 - 2018
                     </p>
-                    <p><b>Deep Run High School</b> ​— Glen Allen, VA
+                    <p>
+                        <b>Deep Run High School</b> ​— Glen Allen, VA
                         <br>
                         2009 - 2013
                         <br>
