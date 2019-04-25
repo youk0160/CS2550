@@ -14,6 +14,7 @@
                 (804) 205-0051<br>
                 youk0160@gmail.com
                 </h5>
+                <hr>
             </div>
             <div>
                 <section>
