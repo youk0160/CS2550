@@ -7,7 +7,7 @@
     <body>
         <div>
             <div>
-                <b>Youkyung Lee</b>
+                <h1>Youkyung Lee</h1>
                 743 N 900 E<br>
                 Provo, UT 84606<br>
                 <b>(804) 205-0051<br>
